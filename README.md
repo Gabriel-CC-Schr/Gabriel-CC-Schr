@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Gabriel CC</h1>
-<h3 align="center">A passionate Computer Science Student from the U.S</h3>
+<h3 align="center">I am a Computer Science Student from the U.S</h3>
 
-- 🔭 I’m currently working on **Security for my network**
+- 🔭 I’m currently working on **ML**
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Game development**
 
 - 📫 How to reach me **ccgabriel.888@gmail.com**
 
