@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **GitHub**
 
-- ⚡ Fun fact **I like playing Minecraft**
+- ⚡ Fun fact **I play Minecraft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
