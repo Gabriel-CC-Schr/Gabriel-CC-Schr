@@ -1,4 +1,4 @@
-*/### Hi there 👋
+### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Gabriel CC</h1>
 <h3 align="center">I am a Computer Science Student from the U.S</h3>
