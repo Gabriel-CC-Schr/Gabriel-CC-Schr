@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel CC</h1>
 <h3 align="center">I am a Computer Science Student from the U.S</h3>
 
-- 🔭 I’m currently working on **ML**
+- 🔭 I’m currently working on **Personal WebSite**
 
-- 🌱 I’m currently learning **Game development**
+- 🌱 I’m currently learning **Data structures**
 
-- 📫 How to reach me **ccgabriel.888@gmail.com**
+- 📫 How to reach me **GitHub**
 
-- ⚡ Fun fact **I like playing chess**
+- ⚡ Fun fact **I like playing Minecraft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
